@@ -1,1 +1,43 @@
 body {background-color: pink;}
+
+ul{
+ list-style-type:none;
+}
+
+li
+{
+
+ border: 2px solid black;
+ display: inline-block;
+ border-radius: 20px;
+ padding: 12px;
+ margin: 5px;
+float: right;
+
+
+
+ }
+
+.contact a:hover
+{
+ background-color: yellow;
+ color: white;
+
+}
+.about, a:hover
+{
+ background-color: orange;
+ color: white;
+}
+
+.profile, a:hover
+{
+ background-color: pink;
+color: white;
+}
+
+.home, a:hover
+{
+ background-color: wheat;
+ color: black;
+}
