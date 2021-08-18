@@ -1,1 +1,47 @@
 body {background-color: pink;}
+<<<<<<< HEAD
+
+ul{
+ list-style-type:none;
+}
+
+li
+{
+
+ border: 2px solid black;
+ display: inline-block;
+ border-radius: 20px;
+ padding: 12px;
+ margin: 5px;
+float: right;
+
+
+
+ }
+
+.contact a:hover
+{
+ background-color: yellow;
+ color: white;
+
+}
+.about, a:hover
+{
+ background-color: orange;
+ color: white;
+}
+
+.profile, a:hover
+{
+ background-color: pink;
+color: white;
+}
+
+.home, a:hover
+{
+ background-color: wheat;
+ color: black;
+}
+=======
+.h1 {text-align: center;}
+>>>>>>> 439145ded8d80b91f801a843045f900fe0ab88a8
